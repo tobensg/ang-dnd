@@ -1,0 +1,23 @@
+{
+  "name": "ang-dnd",
+  "version": "1.0.0",
+  "description": "Angular DnD tool",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobensg/ang-dnd.git"
+  },
+  "keywords": [
+    "angularjs",
+    "dnd"
+  ],
+  "author": "Toben Green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobensg/ang-dnd/issues"
+  },
+  "homepage": "https://github.com/tobensg/ang-dnd#readme"
+}
